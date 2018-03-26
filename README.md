@@ -2,9 +2,9 @@
 
 ### To use this do the following:
 ## Clone the Repository to your local machine
-`git clone https://github.com/achintyapataskar/pcp_htop.git`
+`git clone https://github.com/achintyapataskar/ncurses_application.git`
 ## Change directory into this cloned repository and run make command
-`cd pcp_htop`
+`cd ncurses_application`
 
 `make`
 ## Run the program
